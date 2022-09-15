@@ -1,6 +1,10 @@
 public class Main {
     public static void main (String[]args){
-        //write your code
-        System.out.println("Hola Mundo");
+        int resultado = 0;
+        resultado = suma(5, 10, 15);
+        System.out.println(resultado);
+    }
+    public static int suma(int a, int  b, int c){
+        return a + b + c;
     }
 }
