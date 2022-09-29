@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d8c71e43-da41-4f9d-a802-77a5e8e9e3c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Objects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/inheritance.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,14 +39,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Objects">
-    <configuration name="ConditionalWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ConditionalWhile" />
-      <module name="Java-first-steps" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.inheritance">
     <configuration name="DoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DoWhile" />
       <module name="Java-first-steps" />
@@ -75,13 +68,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="inheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="inheritance" />
+      <module name="Java-first-steps" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.inheritance" />
         <item itemvalue="Application.Objects" />
         <item itemvalue="Application.Switch" />
         <item itemvalue="Application.For" />
         <item itemvalue="Application.DoWhile" />
-        <item itemvalue="Application.ConditionalWhile" />
       </list>
     </recent_temporary>
   </component>
